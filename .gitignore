@@ -1,0 +1,7 @@
+data_raw/
+data_processed/
+translations/
+results/
+.ipynb_checkpoints/
+.venv/
+__pycache__/
