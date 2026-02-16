@@ -1,0 +1,3 @@
+[submodule "third_party/MastersThesis"]
+	path = third_party/MastersThesis
+	url = https://github.com/dks11/MastersThesis
